@@ -1,0 +1,39 @@
+# Common Lisp compiled files
+*.fasl
+*.dx64fsl
+*.lx64fsl
+*.x86f
+*.amd64f
+*.lib
+*.dx32fsl
+*.lx32fsl
+
+# SBCL cache
+.cache/
+
+# Common Lisp temporary files
+*.tmp
+*~
+
+# OS generated files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# Editor files
+*~
+.#*
+\#*#
+*.swp
+*.swo
+
+# IDE files
+.vscode/
+.idea/
+
+# Logs
+*.log
